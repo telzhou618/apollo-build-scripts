@@ -23,7 +23,7 @@ else
 fi
 
 # meta server url
-config_server_url=http://119.45.136.121:8080
+config_server_url=http://119.45.136.121:8761
 admin_server_url=http://119.45.136.121:8090
 eureka_service_url=$config_server_url/eureka/
 portal_url=http://119.45.136.121:8070
